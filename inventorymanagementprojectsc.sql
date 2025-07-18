@@ -171,26 +171,3 @@ END;
 SELECT Get_Stock(ProductID)
 FROM   PRODUCTS
 ;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
